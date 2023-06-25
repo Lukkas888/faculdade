@@ -1,0 +1,64 @@
+ *{
+    margin: auto;
+ }
+ body{
+    background-color: black;
+ }  
+
+ .cabeçalho{
+    color: white;
+ }
+
+
+ 
+ a{ 
+    margin: 15px;
+
+
+} 
+
+a:hover{
+
+}
+section{
+    background-color: black;
+}
+.conteudo{
+    max-width: 400px;
+    background-color:#ffffffbb;
+    float: right; 
+    margin: auto;
+
+}  
+
+.perfil{
+
+    float: left;
+} 
+
+#rodape{
+    background-color: #0DCAF0; 
+    width: 100%;
+    height: 50px;  
+    margin: auto; 
+    padding: 100px; 
+
+}  
+
+.icones{
+    height: 100px;
+    width: 100px;
+    /* margin: 50px;   */
+    float: right; 
+    background-color: white; 
+    text-align: center; 
+    line-height: 100px;
+}
+
+h1,p{
+    font-size: 20px;
+    margin-bottom: 20px; 
+    padding: 15px;
+}
+    
+
